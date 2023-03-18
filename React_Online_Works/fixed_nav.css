@@ -47,3 +47,7 @@ p{
 h1{
     font-weight: bolder;
 }
+
+h2{
+    font-variant-ligatures: no-additional-ligatures;
+}
